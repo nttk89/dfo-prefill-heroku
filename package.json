@@ -1,10 +1,10 @@
 {
   "name": "public-script-hosting",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
+  "description": "Prefill for all project's DFO (Funnel & Ecommerce",
+  "main": "main.js",
   "scripts": {
-    "start": "nodemon src/index.js localhost 8080"
+    "start": "nodemon main.js localhost 8080"
   },
   "dependencies": {
     "express": "4.16.4"
